@@ -1,0 +1,15 @@
+{
+  "name": "rezome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i style.css -o css/main.css --watch"
+  },
+  "author": "AmirMohammad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
